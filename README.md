@@ -98,13 +98,6 @@ java -cp .;mysql-connector-java.jar Flingo
 - **Edit** or **Delete** using the buttons below each card.
 - All your flashcards are stored per user in the database.
 
----
-
-## Screenshots
-
-_Add screenshots here!_
-
----
 
 ## Security Note
 
@@ -120,8 +113,3 @@ Passwords are stored in plain text for demo purposes. For real use, **hash passw
 
 ---
 
-## License
-
-MIT License
-
----
